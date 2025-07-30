@@ -1,8 +1,9 @@
 # 🛒 Ecommerce Microservices Application – Portfolio Project by Giuseppe Pannone
 
-![This is me, Giuseppe Pannone!](C:\Users\Giuseppe\ecommerce-microservices\foto_primo_piano_giuseppe_square.png)
+<img src="./foto_primo_piano_giuseppe_square.png" alt="Giuseppe Pannone" width="72" height="72"/>
 
-## ![img.png](img.png) ENGLISH 
+## <p><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="20" style="vertical-align:middle;"/> <strong>English</strong></p>
+
 
 ## 👋 About me
 
@@ -106,16 +107,18 @@ Initialize project structure
 
 
 ### 📫 Contact
-Feel free to connect with me on Linkedin: https://www.linkedin.com/in/giuseppe-pannone-abb805194/
-Or send me an email at giusepp.pann96@gmail.com
+📎 [LinkedIn – Giuseppe Pannone](https://www.linkedin.com/in/giuseppe-pannone-abb805194/)
+📧 Email: giusepp.pann96@gmail.com
 
 
-#  ![img_1.png](img_1.png) ITALIANO
+#  !<p><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="20" style="vertical-align:middle;"/> <strong>English</strong></p>
+
 
 
 # 🛒 Applicazione Ecommerce a Microservizi – Progetto Portfolio di Giuseppe Pannone
 
-![Questo sono io, Giuseppe Pannone!](./foto_primo_piano_giuseppe_square.png)
+<img src="./foto_primo_piano_giuseppe_square.png" alt="Giuseppe Pannone" width="72" height="72"/>
+
 
 ## 👋 Chi sono
 
@@ -167,4 +170,40 @@ Ogni microservizio è:
 ```bash
 git clone https://github.com/Pannono/ecommerce-microservices
 cd ecommerce-microservices
+```
+
+### 🛠 Funzionalità Attuali (service-product)
+- Creazione, lettura, modifica e cancellazione di prodotti
+
+- API RESTful con endpoint come:
+
+  - GET /api/products
+
+  - POST /api/products
+
+  - GET /api/products/{id}
+
+- Persistenza dei dati in PostgreSQL tramite volumi Docker
+
+### 🗺 Roadmap
+
+- [x] Inizializzazione della struttura del progetto
+
+- [x] Costruzione e containerizzazione del microservizio prodotti
+
+- [ ] Aggiunta del microservizio utenti con autenticazione
+
+- [ ] Aggiunta del microservizio ordini con logica relazionale
+
+- [ ] Integrazione di Keycloak per l'autenticazione e la sicurezza
+
+- [ ] Sviluppo del frontend con Angular
+
+- [ ] Deploy su una piattaforma cloud (facoltativo)
+
+## 📫 Contatti
+📎 [LinkedIn – Giuseppe Pannone](https://www.linkedin.com/in/giuseppe-pannone-abb805194/)
+📧 Email: giusepp.pann96@gmail.com
+
+
 
